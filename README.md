@@ -7,7 +7,7 @@
 
 >2._[Cygwin-Windows下安装Unix环境安装包下载链接](http://www.qxcbs.com/data/attachement/rar/site2/20170728/1501209277009.rar)_
 
-如果，链接失效可以发[邮件](zhpfu.atm@gmail.com)索要。
+如果，链接失效可以发邮件到zhpfu.atm@gmail.com索要。
 
 ![](https://github.com/gavin971/NCL_meteorology_libs/blob/master/book_cover.png)
 
