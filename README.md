@@ -1,11 +1,11 @@
-# 书本简介
+## 书本简介
 
 [《NCL数据处理与绘图实习教程》](http://www.qxcbs.com/news/newsdetail.jsp?id=164670&nodeid=383&siteid=2)
 
 
-[测试数据下载链接](http://www.qxcbs.com/data/attachement/rar/site2/20170728/1501209300112.rar)
+>1._[测试数据下载链接](http://www.qxcbs.com/data/attachement/rar/site2/20170728/1501209300112.rar)_
 
-[Cygwin-Windows下安装Unix环境安装包](http://www.qxcbs.com/data/attachement/rar/site2/20170728/1501209277009.rar)
+>2._[Cygwin-Windows下安装Unix环境安装包下载链接](http://www.qxcbs.com/data/attachement/rar/site2/20170728/1501209277009.rar)_
 
 如果，链接失效可以发[邮件](zhpfu.atm@gmail.com)索要。
 
@@ -19,9 +19,9 @@ ISBN：978-7-5029-6567-9；定价：40.00元。
 [购书链接(友情帮转！)](http://www.qxcbs.com//books/booksdetail.jsp?id=164759&nodeid=267&siteid=2&pubcompanyid=49)
 
 
-# 作者简介
+## 作者简介
 
 施宁，南京信息工程大学副教授，博士。主讲课程: 数值天气预报，大气环流，Linux和NCL实践。主要研究领域: 近年来集中研究了北极涛动（AO）的形态及其大气内部动力学机制。（1）提出了在垂直方向上平流层—对流层非耦合型AO的形成机制，即东北亚地区及北美东部地区存在垂直波导区，它的存在有利于其附近的环流异常在平流层—对流层频散Rossby波能量，进而导致平流层—对流层中环流异常反位相的特征；（2）在多年代际尺度上发现阿留申—冰岛低压振荡有利于AO形成水平纬向对称的结构。
 
-版权归作者所有，特殊用途请联系施宁老师，我只是大自然的搬运工。🙂
+>版权归作者所有，特殊用途请联系施宁老师，我只是大自然的搬运工。🙂
 
