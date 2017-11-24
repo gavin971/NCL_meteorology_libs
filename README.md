@@ -1,7 +1,7 @@
 # 书本简介
 [《NCL数据处理与绘图实习教程》](http://www.qxcbs.com/news/newsdetail.jsp?id=164670&nodeid=383&siteid=2)
 
-![](https://github.com/gavin971/NCL_meteorology_libs/blob/master/img20171104_13363480.png)
+![](https://github.com/gavin971/NCL_meteorology_libs/blob/master/books_cover.jpg)
 内容简介：本书首先介绍了NCL下载及安装方法，其后通过9个简单的绘图实例讲解了NCL的基本绘图方法，随后通过19个具体的应用实例进一步综合讲解了NCL对于各种常见格式数据的输入输出、复杂图形的绘制方法以及常见计算函数的使用方法 。此外，附录中还提供了124个常用计算函数及程序、53个常用绘图函数及程序、25个处理WRF输出数据的计算和绘图函数以及13类常用绘图参数的使用方法及说明，并提供了常用函数的索引，这些内容可方便读者日后参考查阅。
 本书适合大气科学专业及地学专业本科及研究生实习，也可供相关专业研究生、科研业务人员参考使用。
 
